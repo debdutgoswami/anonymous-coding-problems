@@ -1,4 +1,8 @@
 # anonymous-coding-problems
+
+
+[![HitCount](http://hits.dwyl.io/debdutgoswami/anonymous-coding-problems.svg)](http://hits.dwyl.io/debdutgoswami/anonymous-coding-problems)
+
 This repository contain solutions of the coding problems I solve.</br>
 
 My main motive behind creating this repository is to give everyone small coding problems to solve. I will be uploading solutions to all the questions. Languages I would be using are Python, C and Java. </br>
