@@ -1,11 +1,20 @@
 # Problem:</br>
-You are given an array of integers. Return the length of the longest consecutive elements sequence in the array.</br>
+Given a string, find the length of the longest substring without repeating characters.</br>
 
-## Input:</br>
-100 4 200 1 3 2</br>
+## Example 1:
 
-## Output:</br>
-4</br>
+### Input: 
+"abcabcbb"</br>
+### Output: 
+3</br>
+### Explanation: 
+The answer is "abc", with the length of 3.</br>
 
-## Explanation</br>
-The input array [100, 4, 200, 1, 3, 2] has the longest consecutive sequence 1, 2, 3, 4, and thus, it should return its length, 4.</br>
+## Example 2:
+
+### Input: 
+"bbbbb"</br>
+### Output: 
+1</br>
+### Explanation: 
+The answer is "b", with the length of 1.</br>
