@@ -31,3 +31,9 @@ For each test case, print a single line containing one integer ― the maximum n
 ```
 4
 ```
+
+### Explanation</br>
+
+```
+If the first person defeats the second person, weapons 1, 3, 7 and 10 are destroyed. Then, if the third person defeats the first person (who now has weapons 2, 5, 8 and 9), weapons 9 are destroyed and the winner has weapons 2, 5, 8 and 10.
+```
