@@ -17,4 +17,4 @@ You may assume `k` is always valid.
 
 # Complexity
 
-O(n log n)
+Complexity should be less than `O(n log n)` where `n` is the size of the array.
