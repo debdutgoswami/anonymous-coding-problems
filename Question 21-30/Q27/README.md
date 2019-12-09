@@ -1,0 +1,20 @@
+# Problem
+
+Given a non-empty array of integers, return the `k` most frequent elements.
+
+# Example
+
+```
+Input: nums = [1,1,1,2,2,3], k = 2
+Output: [1,2]
+```
+
+```Input: nums = [1], k = 1
+Output: [1]
+```
+
+You may assume `k` is always valid.
+
+# Complexity
+
+O(n log n)
